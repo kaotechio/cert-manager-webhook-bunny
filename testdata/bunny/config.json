@@ -1,0 +1,7 @@
+{
+  "apiKeySecretRef": {
+    "name": "bunny-api-key",
+    "key": "apiKey"
+  }
+}
+
